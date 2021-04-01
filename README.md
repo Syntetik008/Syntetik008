@@ -4,7 +4,6 @@
 - 📫 How to reach me 
  -  Discord - xNatok#0442
  -  Discord - https://discord.gg/7cucpAuXvA
- -  
  -  Twitter - @XNatok
 
 <!---
