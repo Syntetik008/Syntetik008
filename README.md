@@ -2,8 +2,7 @@
 - 👀 I’m interested in Anime, coding, gaming
 - 🌱 I’m currently learning Python, C++, lua, java
 - 📫 How to reach me 
- - |  Discord - xNatok#0442
- - |  Discord - https://discord.gg/7cucpAuXvA
+ - |  Discord - xNatok#6317
  - |  Twitter - @XNatok
 
 <!---
