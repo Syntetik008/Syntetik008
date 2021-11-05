@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Wungiel
 - 👀 I’m interested in Anime, coding, gaming
-- 🌱 I’m currently learning Python, C++, lua, java
+- 🌱 I’m currently learning Python, C++, C#, lua, JS
 - 📫 How to reach me 
  - |  Discord - xNatok#6317
- - |  Twitter - @XNatok
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntetik008&layout=)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Syntetik008/Syntetik008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
