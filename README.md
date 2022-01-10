@@ -2,7 +2,7 @@
 - 👀 I’m interested in Anime, coding, gaming
 - 🌱 I’m currently learning Python, C++, C#, lua, JS
 - 📫 How to reach me 
- - |  Discord - xNatok#6317
+ -   Discord - Bartuś#6317
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntetik008&layout=)](https://github.com/anuraghazra/github-readme-stats)
 
