@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, C++, C#, lua, JS
 - 📫 How to reach me 
  -   Discord - Bartuś#7443
+ -   Telegram - @wungiel (https://t.me/wungiel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syntetik008&layout=)](https://github.com/anuraghazra/github-readme-stats)
 
